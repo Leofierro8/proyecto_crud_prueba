@@ -15,3 +15,5 @@ Proyecto desarrollado en Python con Flask y SQLite siguiendo el patrón MVC.
 - `src/`: Lógica del servidor y rutas.
 - `src/templates/`: Vistas HTML.
 - `database.db`: Base de datos local.
+## Enlaces
+-http://127.0.0.1:5000
